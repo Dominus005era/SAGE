@@ -4,6 +4,8 @@ SAGE (Version 2) is a next-generation, AI-driven micro-learning application buil
 
 This version is designed as an interactive template deployable to **Google AI Studio** or standalone cloud hosting.
 
+> 📌 **Disclaimer**: Some statistics displayed on this platform (such as member counts, cards generated, and community metrics) are illustrative placeholders and do not reflect real data. SAGE is built purely for educational and knowledge-exploration purposes.
+
 ---
 
 ## ✨ Features
