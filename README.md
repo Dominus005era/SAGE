@@ -2,9 +2,7 @@
 
 SAGE (Version 2) is a next-generation, AI-driven micro-learning application built on **Vite**, **React**, and **TypeScript**. It utilizes the **Google GenAI SDK** (Gemini) to generate dynamic, personalized micro-learning content, and integrates with **Firebase** for cloud data storage and authentication.
 
-This version is designed as an interactive template deployable to **Google AI Studio** or standalone cloud hosting.
-
-> 📌 **Disclaimer**: Some statistics displayed on this platform (such as member counts, cards generated, and community metrics) are illustrative placeholders and do not reflect real data. SAGE is built purely for educational and knowledge-exploration purposes.
+This version is designed as a standalone interactive learning application or template.
 
 ---
 
@@ -68,8 +66,6 @@ GEMINI_API_KEY="your_google_gemini_api_key"
 APP_URL="http://localhost:3000"
 ```
 
-*Note: For AI Studio deployments, the `GEMINI_API_KEY` is automatically injected at runtime using your user secrets.*
-
 ### 2. Firebase Credentials
 
 Ensure you have initialized a Firebase project. Update the config in [src/lib/firebase.ts](file:///E:/SAGE%20WEB/SAGE%20version%202/src/lib/firebase.ts) with your credentials:
@@ -125,3 +121,19 @@ Make sure you have [Node.js](https://nodejs.org/) installed (v18.x or higher rec
 ## 📄 License
 
 This project is licensed under the MIT License.
+
+---
+
+## 📌 Disclaimer
+
+Some statistics displayed on this platform (such as member counts, cards generated, and community metrics) are illustrative placeholders and do not reflect real data. SAGE is built purely for educational and knowledge-exploration purposes.
+
+---
+
+<div align="center">
+
+**Made with ❤️ for curious minds everywhere.**
+
+*SAGE — Where curiosity becomes mastery.*
+
+</div>
